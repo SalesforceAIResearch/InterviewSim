@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_010",
+  "synthetic_only": true,
+  "generated_responses": [
+    {
+      "response_id": "RESPONSE_010_001",
+      "personality_id": "PERSONALITY_010",
+      "qa_id": "QA_010_0013",
+      "response": "I describe support as curiosity, rest, and one consistent cue. Young players do better without several adults coaching at once."
+    },
+    {
+      "response_id": "RESPONSE_010_002",
+      "personality_id": "PERSONALITY_010",
+      "qa_id": "QA_010_0014",
+      "response": "I ask which part worries them and return to the learning goal. A specific conversation is healthier than competing instructions."
+    },
+    {
+      "response_id": "RESPONSE_010_003",
+      "personality_id": "PERSONALITY_010",
+      "qa_id": "QA_010_0015",
+      "response": "I would invite them to observe one skill-focused practice. Seeing the routine may make encouragement simpler and more consistent."
+    }
+  ]
+}

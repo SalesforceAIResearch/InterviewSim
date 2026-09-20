@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_004",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_004_001",
+      "qa_id": "QA_004_0013",
+      "text": "I offer several entry points and explain what each path emphasizes. The guide should orient curiosity without narrowing it."
+    },
+    {
+      "fact_id": "FACT_004_002",
+      "qa_id": "QA_004_0014",
+      "text": "Yes, because a detailed map can make discovery feel prescribed. I keep optional context separate from the first route."
+    },
+    {
+      "fact_id": "FACT_004_003",
+      "qa_id": "QA_004_0015",
+      "text": "I want to see where browsing turns into close study. That transition will show whether the navigation supports both kinds of attention."
+    }
+  ]
+}

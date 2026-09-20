@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_007",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_007_001",
+      "qa_id": "QA_007_0013",
+      "text": "I connect each barrier to a real task and look first for blocked actions. Visible polish should not outrank someone being unable to continue."
+    },
+    {
+      "fact_id": "FACT_007_002",
+      "qa_id": "QA_007_0014",
+      "text": "Frequency matters, but severity can outweigh it. I document both so the order remains open to challenge."
+    },
+    {
+      "fact_id": "FACT_007_003",
+      "qa_id": "QA_007_0015",
+      "text": "I would publish a short rationale and retest the affected tasks. A completed change is not the same as a removed barrier."
+    }
+  ]
+}

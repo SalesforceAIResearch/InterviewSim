@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_009",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_009_001",
+      "qa_id": "QA_009_0013",
+      "text": "A service is useful only while someone can repair it. Reliability depends on ordinary care, not a dramatic launch."
+    },
+    {
+      "fact_id": "FACT_009_002",
+      "qa_id": "QA_009_0014",
+      "text": "I ask someone new to perform a routine task from the notes. Every private explanation marks knowledge the service has not retained."
+    },
+    {
+      "fact_id": "FACT_009_003",
+      "qa_id": "QA_009_0015",
+      "text": "I would place short operational notes beside each recurring task. A real handoff will test whether those notes are enough."
+    }
+  ]
+}

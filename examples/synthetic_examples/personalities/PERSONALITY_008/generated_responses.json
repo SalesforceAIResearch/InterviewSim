@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_008",
+  "synthetic_only": true,
+  "generated_responses": [
+    {
+      "response_id": "RESPONSE_008_001",
+      "personality_id": "PERSONALITY_008",
+      "qa_id": "QA_008_0013",
+      "response": "I compare roots, moisture, and light before changing anything. Several causes can leave the same sad leaves."
+    },
+    {
+      "response_id": "RESPONSE_008_002",
+      "personality_id": "PERSONALITY_008",
+      "qa_id": "QA_008_0014",
+      "response": "I change one condition and leave the others alone. A smaller experiment gives failure somewhere useful to go."
+    },
+    {
+      "response_id": "RESPONSE_008_003",
+      "personality_id": "PERSONALITY_008",
+      "qa_id": "QA_008_0015",
+      "response": "I would keep one small bed for repeat trials. It could make uncertainty visible without putting the whole harvest at risk."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# Copyright (c) 2026 Salesforce, Inc.
+# SPDX-License-Identifier: CC-BY-NC-4.0
+#
+# Licensed under the Creative Commons Attribution-NonCommercial 4.0
+# International License. See LICENSE.txt in the repository root.
+
+cff-version: 1.2.0
+message: "If you use InterviewSim, please cite the associated paper."
+title: "InterviewSim"
+type: software
+version: 0.1.0
+license: CC-BY-NC-4.0
+authors:
+  - family-names: "Li"
+    given-names: "Yu"
+  - family-names: "Venkit"
+    given-names: "Pranav Narayanan"
+  - family-names: "Pruksachatkun"
+    given-names: "Yada"
+  - family-names: "Wu"
+    given-names: "Chien-Sheng"
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2602.20294"
+    description: "Associated paper"
+preferred-citation:
+  type: article
+  title: "InterviewSim: A Scalable Framework for Interview-Grounded Personality Simulation"
+  authors:
+    - family-names: "Li"
+      given-names: "Yu"
+    - family-names: "Venkit"
+      given-names: "Pranav Narayanan"
+    - family-names: "Pruksachatkun"
+      given-names: "Yada"
+    - family-names: "Wu"
+      given-names: "Chien-Sheng"
+  year: 2026
+  url: "https://arxiv.org/abs/2602.20294"

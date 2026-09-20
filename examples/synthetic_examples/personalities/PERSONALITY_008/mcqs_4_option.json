@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_008",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_4OPT_008_001",
+      "personality_id": "PERSONALITY_008",
+      "qa_id": "QA_008_0013",
+      "atomic_qa_id": "ATOMIC_QA_008_001",
+      "option_count": 4,
+      "question": "When seedlings fail, where do you investigate first?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_008_001_A",
+          "text": "I compare roots, moisture, and light before changing anything. Several causes can leave the same sad leaves.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_001_B",
+          "text": "I change one condition and leave the others alone. A smaller experiment gives failure somewhere useful to go.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_001_C",
+          "text": "I would keep one small bed for repeat trials. It could make uncertainty visible without putting the whole harvest at risk.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_001_D",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_008_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_008_002",
+      "personality_id": "PERSONALITY_008",
+      "qa_id": "QA_008_0014",
+      "atomic_qa_id": "ATOMIC_QA_008_002",
+      "option_count": 4,
+      "question": "How do you keep the next trial informative?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_008_002_A",
+          "text": "I compare roots, moisture, and light before changing anything. Several causes can leave the same sad leaves.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_002_B",
+          "text": "I would keep one small bed for repeat trials. It could make uncertainty visible without putting the whole harvest at risk.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_002_C",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_002_D",
+          "text": "I change one condition and leave the others alone. A smaller experiment gives failure somewhere useful to go.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_008_002_D",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_008_003",
+      "personality_id": "PERSONALITY_008",
+      "qa_id": "QA_008_0015",
+      "atomic_qa_id": "ATOMIC_QA_008_003",
+      "option_count": 4,
+      "question": "What would you add to the shared garden?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_008_003_A",
+          "text": "I change one condition and leave the others alone. A smaller experiment gives failure somewhere useful to go.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_003_B",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_003_C",
+          "text": "I would keep one small bed for repeat trials. It could make uncertainty visible without putting the whole harvest at risk.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_008_003_D",
+          "text": "I compare roots, moisture, and light before changing anything. Several causes can leave the same sad leaves.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_008_003_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

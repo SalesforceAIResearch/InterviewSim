@@ -1,0 +1,72 @@
+# Copyright (c) 2026 Salesforce, Inc.
+# SPDX-License-Identifier: CC-BY-NC-4.0
+#
+# Licensed under the Creative Commons Attribution-NonCommercial 4.0
+# International License. See LICENSE.txt in the repository root.
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "interviewsim"
+version = "0.1.0"
+description = "Research framework for analyzing and comparing synthetically generated interview responses"
+readme = "README.md"
+license = "CC-BY-NC-4.0"
+license-files = ["LICENSE.txt"]
+requires-python = ">=3.10"
+authors = [
+  { name = "Yu Li" },
+  { name = "Pranav Narayanan Venkit" },
+  { name = "Yada Pruksachatkun" },
+  { name = "Chien-Sheng Wu" },
+]
+keywords = [
+  "interview",
+  "language-models",
+  "response-generation",
+  "evaluation",
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+  "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "build",
+  "pytest",
+  "ruff",
+]
+
+[project.urls]
+Paper = "https://arxiv.org/abs/2602.20294"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["interviewsim", "interviewsim.*"]
+namespaces = true
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/interviewsim/retrieval.py" = ["E731"]

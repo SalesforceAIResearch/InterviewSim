@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_005",
+  "synthetic_only": true,
+  "generated_responses": [
+    {
+      "response_id": "RESPONSE_005_001",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0013",
+      "response": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make."
+    },
+    {
+      "response_id": "RESPONSE_005_002",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0014",
+      "response": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation."
+    },
+    {
+      "response_id": "RESPONSE_005_003",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0015",
+      "response": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad."
+    }
+  ]
+}

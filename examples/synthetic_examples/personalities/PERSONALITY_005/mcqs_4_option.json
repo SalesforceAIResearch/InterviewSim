@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_005",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_4OPT_005_001",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0013",
+      "atomic_qa_id": "ATOMIC_QA_005_001",
+      "option_count": 4,
+      "question": "How do you share findings so residents recognize their own experience?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_005_001_A",
+          "text": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_001_B",
+          "text": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_001_C",
+          "text": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_001_D",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_005_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_005_002",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0014",
+      "atomic_qa_id": "ATOMIC_QA_005_002",
+      "option_count": 4,
+      "question": "What do residents add that your analysis cannot?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_005_002_A",
+          "text": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_002_B",
+          "text": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_002_C",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_002_D",
+          "text": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_005_002_D",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_005_003",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0015",
+      "atomic_qa_id": "ATOMIC_QA_005_003",
+      "option_count": 4,
+      "question": "What will you try in the next discussion?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_005_003_A",
+          "text": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_003_B",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_003_C",
+          "text": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_005_003_D",
+          "text": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_005_003_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

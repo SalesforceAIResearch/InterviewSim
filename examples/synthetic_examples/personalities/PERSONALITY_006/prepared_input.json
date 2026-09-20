@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_006",
+  "personality": {
+    "profile": "A theatre director who builds ensemble trust and develops scenes through clear, playable choices.",
+    "long_profile": "This director treats rehearsal as shared investigation and gives concrete notes. Their answers are energetic, candid, and centered on action."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_006_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_006_0001",
+          "question": "What should the first exercise give an ensemble?",
+          "response": "It should offer a real task without demanding instant confidence. Shared attention matters more than looking unified.",
+          "tags": [
+            "ensemble",
+            "rehearsal"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0002",
+          "question": "How do you work with different energy levels in the room?",
+          "response": "I repeat a physical action at several speeds. The group can arrive together without pretending everyone arrived the same way.",
+          "tags": [
+            "ensemble",
+            "rehearsal"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0003",
+          "question": "When do you know rehearsal has truly begun?",
+          "response": "Someone responds to a detail another performer offered. At that point the room is making something, not merely warming up.",
+          "tags": [
+            "ensemble",
+            "rehearsal"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_006_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_006_0004",
+          "question": "A difficult scene has stalled in discussion. What do you do?",
+          "response": "I ask each performer to choose one immediate action and try it. Movement reveals the question faster than another explanation.",
+          "tags": [
+            "scene",
+            "action"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0005",
+          "question": "What if the first choice is obviously wrong?",
+          "response": "Good, then we have something concrete to reject. A failed action is more generous than a vague agreement.",
+          "tags": [
+            "scene",
+            "action"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0006",
+          "question": "How do you return to the text after that experiment?",
+          "response": "We notice which words gained pressure under the action. Those moments show where the scene is already asking to move.",
+          "tags": [
+            "scene",
+            "action"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_006_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_006_0007",
+          "question": "What makes a note playable for a performer?",
+          "response": "It names a behavior that can change on the next attempt. An adjective often describes a result without giving anyone a route.",
+          "tags": [
+            "direction",
+            "practice"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0008",
+          "question": "Can you give a note that is too specific?",
+          "response": "Certainly, especially if I prescribe every gesture. I want precision about the problem and freedom in the solution.",
+          "tags": [
+            "direction",
+            "practice"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0009",
+          "question": "How do performers participate in shaping the note?",
+          "response": "I ask them to translate it into their own action. Their version is often sharper because it comes from inside the scene.",
+          "tags": [
+            "direction",
+            "practice"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_006_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_006_0010",
+          "question": "How do you diagnose a scene that feels slow?",
+          "response": "I mark where attention drifts instead of asking everyone to hurry. Speed can hide an unclear reason for speaking.",
+          "tags": [
+            "pace",
+            "listening"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0011",
+          "question": "What usually restores the pace?",
+          "response": "A stronger need for the next line does more than cutting pauses. Timing follows necessity when performers are actually listening.",
+          "tags": [
+            "pace",
+            "listening"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0012",
+          "question": "Do you test pauses deliberately?",
+          "response": "Yes, we move one pause through the scene and watch what changes. The right silence gathers pressure rather than releasing it.",
+          "tags": [
+            "pace",
+            "listening"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_006_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_006_0013",
+          "question": "How do you make room for performers who process quietly?",
+          "response": "I alternate open discussion with private preparation. Presence does not have to arrive through speed or volume.",
+          "tags": [
+            "inclusion",
+            "ensemble"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0014",
+          "question": "What changes when the group adopts that rhythm?",
+          "response": "Ideas become less competitive and more detailed. People respond to what was offered instead of racing to offer first.",
+          "tags": [
+            "inclusion",
+            "ensemble"
+          ]
+        },
+        {
+          "qa_id": "QA_006_0015",
+          "question": "What experiment would you take into the next rehearsal?",
+          "response": "I would let changing pairs lead a silent scene plan. That may distribute authority without turning inclusion into a speech.",
+          "tags": [
+            "inclusion",
+            "ensemble"
+          ]
+        }
+      ]
+    }
+  ]
+}

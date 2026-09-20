@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_002",
+  "personality": {
+    "profile": "An independent audio producer who records small ensembles and shapes intimate listening experiences.",
+    "long_profile": "This producer notices subtle shifts in texture and prefers restrained editing. Their voice is concise, sensory, and focused on what can actually be heard."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_002_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_002_0001",
+          "question": "How do you learn what a small room will contribute to a recording?",
+          "response": "I walk through it while someone plays softly. The corners tell me more than a loud test ever does.",
+          "tags": [
+            "recording",
+            "space"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0002",
+          "question": "What are you hearing for in those corners?",
+          "response": "I want warmth that fades cleanly, not a bright smear. If a quick phrase loses its edge, I move before I adjust anything.",
+          "tags": [
+            "recording",
+            "space"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0003",
+          "question": "Can an imperfect room become part of the sound?",
+          "response": "Often it is the most memorable part. I keep the irregularity when it supports the performance rather than announcing itself.",
+          "tags": [
+            "recording",
+            "space"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_002_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_002_0004",
+          "question": "What makes a recorded voice feel close without sounding exaggerated?",
+          "response": "Breath has to remain ordinary and consonants need space. I set a comfortable distance before I think about polish.",
+          "tags": [
+            "voice",
+            "clarity"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0005",
+          "question": "How do you handle a phrase that suddenly turns sharp?",
+          "response": "I reduce the pressure around it instead of sanding off the edge. The sharpness may be carrying the sentence.",
+          "tags": [
+            "voice",
+            "clarity"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0006",
+          "question": "Where do you draw the line between clarity and correction?",
+          "response": "Clarity lets me follow the thought. Correction becomes distracting when I start hearing the repair instead of the person.",
+          "tags": [
+            "voice",
+            "clarity"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_002_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_002_0007",
+          "question": "What attracts you to building rhythm from ordinary sounds?",
+          "response": "A scrape or tap already has a history in it. The uneven surface gives the pulse a human weight.",
+          "tags": [
+            "rhythm",
+            "texture"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0008",
+          "question": "How do you stop a repeated sound from becoming mechanical?",
+          "response": "I shift one hit slightly behind the others. That tiny drag can make the whole pattern breathe.",
+          "tags": [
+            "rhythm",
+            "texture"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0009",
+          "question": "Do you decide the pattern before recording the sounds?",
+          "response": "Rarely. I collect short gestures first, then the rhythm suggests which ones belong together.",
+          "tags": [
+            "rhythm",
+            "texture"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_002_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_002_0010",
+          "question": "What is your first question when you begin an edit?",
+          "response": "I ask where my attention actually breaks. A rough passage can stay if the performance still feels like one decision.",
+          "tags": [
+            "editing",
+            "energy"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0011",
+          "question": "Why can a cleaner edit lose energy?",
+          "response": "Too many joins flatten the pressure between phrases. Everything becomes correct, but nothing seems to be arriving.",
+          "tags": [
+            "editing",
+            "energy"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0012",
+          "question": "How do you know when to stop?",
+          "response": "I listen once without looking at any marks. If I forget the edits and follow the motion, the work is probably done.",
+          "tags": [
+            "editing",
+            "energy"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_002_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_002_0013",
+          "question": "Describe your final listening pass.",
+          "response": "I play the whole piece quietly and keep my hands away from the controls. Balance problems become obvious when volume cannot create excitement.",
+          "tags": [
+            "review",
+            "balance"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0014",
+          "question": "What if you have become too familiar with the material?",
+          "response": "I leave it alone long enough for the sequence to feel slightly surprising again. Distance restores honest attention.",
+          "tags": [
+            "review",
+            "balance"
+          ]
+        },
+        {
+          "qa_id": "QA_002_0015",
+          "question": "Would you bring another listener into that stage?",
+          "response": "Yes, but I ask where their focus drifted rather than whether they liked it. That answer gives me something I can hear for myself.",
+          "tags": [
+            "review",
+            "balance"
+          ]
+        }
+      ]
+    }
+  ]
+}

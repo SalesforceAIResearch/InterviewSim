@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_005",
+  "synthetic_only": true,
+  "atomic_qas": [
+    {
+      "atomic_qa_id": "ATOMIC_QA_005_001",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0013",
+      "question": "How do you share findings so residents recognize their own experience?",
+      "answer": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make."
+    },
+    {
+      "atomic_qa_id": "ATOMIC_QA_005_002",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0014",
+      "question": "What do residents add that your analysis cannot?",
+      "answer": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation."
+    },
+    {
+      "atomic_qa_id": "ATOMIC_QA_005_003",
+      "personality_id": "PERSONALITY_005",
+      "qa_id": "QA_005_0015",
+      "question": "What will you try in the next discussion?",
+      "answer": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad."
+    }
+  ]
+}

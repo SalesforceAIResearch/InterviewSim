@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_004",
+  "synthetic_only": true,
+  "unit": "interview",
+  "train_sequences": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "test_sequences": [
+    5
+  ],
+  "train_interview_ids": [
+    "INTERVIEW_004_001",
+    "INTERVIEW_004_002",
+    "INTERVIEW_004_003",
+    "INTERVIEW_004_004"
+  ],
+  "test_interview_ids": [
+    "INTERVIEW_004_005"
+  ],
+  "train_qa_ids": [
+    "QA_004_0001",
+    "QA_004_0002",
+    "QA_004_0003",
+    "QA_004_0004",
+    "QA_004_0005",
+    "QA_004_0006",
+    "QA_004_0007",
+    "QA_004_0008",
+    "QA_004_0009",
+    "QA_004_0010",
+    "QA_004_0011",
+    "QA_004_0012"
+  ],
+  "test_qa_ids": [
+    "QA_004_0013",
+    "QA_004_0014",
+    "QA_004_0015"
+  ],
+  "counts": {
+    "train_interviews": 4,
+    "test_interviews": 1,
+    "train_qas": 12,
+    "test_qas": 3
+  }
+}

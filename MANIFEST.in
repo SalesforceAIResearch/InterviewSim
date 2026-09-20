@@ -1,0 +1,21 @@
+# Copyright (c) 2026 Salesforce, Inc.
+# SPDX-License-Identifier: CC-BY-NC-4.0
+#
+# Licensed under the Creative Commons Attribution-NonCommercial 4.0
+# International License. See LICENSE.txt in the repository root.
+
+include README.md
+include CONTRIBUTING.md
+include CITATION.cff
+include CODE_OF_CONDUCT.md
+include LICENSE.txt
+include SECURITY.md
+include pyproject.toml
+graft assets
+graft docs
+graft scripts
+graft tests
+graft examples/synthetic_examples
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store

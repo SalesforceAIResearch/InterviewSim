@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_001",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_4OPT_001_001",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0013",
+      "atomic_qa_id": "ATOMIC_QA_001_001",
+      "option_count": 4,
+      "question": "How do you plan for people with very different experience?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_001_001_A",
+          "text": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_001_B",
+          "text": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_001_C",
+          "text": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_001_D",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_001_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_001_002",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0014",
+      "atomic_qa_id": "ATOMIC_QA_001_002",
+      "option_count": 4,
+      "question": "What do you ask experienced participants to do?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_001_002_A",
+          "text": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_002_B",
+          "text": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_002_C",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_002_D",
+          "text": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_001_002_D",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_001_003",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0015",
+      "atomic_qa_id": "ATOMIC_QA_001_003",
+      "option_count": 4,
+      "question": "What would you change in your next mixed group?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_001_003_A",
+          "text": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_003_B",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_003_C",
+          "text": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_001_003_D",
+          "text": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_001_003_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

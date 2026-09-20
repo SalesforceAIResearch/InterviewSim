@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_009",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_3OPT_009_001",
+      "personality_id": "PERSONALITY_009",
+      "qa_id": "QA_009_0013",
+      "atomic_qa_id": "ATOMIC_QA_009_001",
+      "option_count": 3,
+      "question": "Why treat maintenance as a public-interest concern?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_009_001_A",
+          "text": "A service is useful only while someone can repair it. Reliability depends on ordinary care, not a dramatic launch.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_009_001_B",
+          "text": "I ask someone new to perform a routine task from the notes. Every private explanation marks knowledge the service has not retained.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_009_001_C",
+          "text": "I would place short operational notes beside each recurring task. A real handoff will test whether those notes are enough.",
+          "kind": "plausible_misconception"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_009_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_009_002",
+      "personality_id": "PERSONALITY_009",
+      "qa_id": "QA_009_0014",
+      "atomic_qa_id": "ATOMIC_QA_009_002",
+      "option_count": 3,
+      "question": "How do you uncover fragile knowledge?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_009_002_A",
+          "text": "A service is useful only while someone can repair it. Reliability depends on ordinary care, not a dramatic launch.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_009_002_B",
+          "text": "I would place short operational notes beside each recurring task. A real handoff will test whether those notes are enough.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_009_002_C",
+          "text": "I ask someone new to perform a routine task from the notes. Every private explanation marks knowledge the service has not retained.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_009_002_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_009_003",
+      "personality_id": "PERSONALITY_009",
+      "qa_id": "QA_009_0015",
+      "atomic_qa_id": "ATOMIC_QA_009_003",
+      "option_count": 3,
+      "question": "What improvement would you make next?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_009_003_A",
+          "text": "I ask someone new to perform a routine task from the notes. Every private explanation marks knowledge the service has not retained.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_009_003_B",
+          "text": "I would place short operational notes beside each recurring task. A real handoff will test whether those notes are enough.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_009_003_C",
+          "text": "A service is useful only while someone can repair it. Reliability depends on ordinary care, not a dramatic launch.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_009_003_B",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

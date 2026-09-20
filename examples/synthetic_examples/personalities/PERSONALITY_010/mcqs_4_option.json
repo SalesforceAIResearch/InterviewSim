@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_010",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_4OPT_010_001",
+      "personality_id": "PERSONALITY_010",
+      "qa_id": "QA_010_0013",
+      "atomic_qa_id": "ATOMIC_QA_010_001",
+      "option_count": 4,
+      "question": "How do you explain a family's role around practice?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_010_001_A",
+          "text": "I describe support as curiosity, rest, and one consistent cue. Young players do better without several adults coaching at once.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_001_B",
+          "text": "I ask which part worries them and return to the learning goal. A specific conversation is healthier than competing instructions.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_001_C",
+          "text": "I would invite them to observe one skill-focused practice. Seeing the routine may make encouragement simpler and more consistent.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_001_D",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_010_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_010_002",
+      "personality_id": "PERSONALITY_010",
+      "qa_id": "QA_010_0014",
+      "atomic_qa_id": "ATOMIC_QA_010_002",
+      "option_count": 4,
+      "question": "What if an adult disagrees with your approach?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_010_002_A",
+          "text": "I describe support as curiosity, rest, and one consistent cue. Young players do better without several adults coaching at once.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_002_B",
+          "text": "I would invite them to observe one skill-focused practice. Seeing the routine may make encouragement simpler and more consistent.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_002_C",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_002_D",
+          "text": "I ask which part worries them and return to the learning goal. A specific conversation is healthier than competing instructions.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_010_002_D",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_4OPT_010_003",
+      "personality_id": "PERSONALITY_010",
+      "qa_id": "QA_010_0015",
+      "atomic_qa_id": "ATOMIC_QA_010_003",
+      "option_count": 4,
+      "question": "How would you involve families next time?",
+      "options": [
+        {
+          "option_id": "OPTION_4OPT_010_003_A",
+          "text": "I ask which part worries them and return to the learning goal. A specific conversation is healthier than competing instructions.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_003_B",
+          "text": "I would reject the approach described here and keep the existing routine unchanged.",
+          "kind": "opposite_negation"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_003_C",
+          "text": "I would invite them to observe one skill-focused practice. Seeing the routine may make encouragement simpler and more consistent.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_4OPT_010_003_D",
+          "text": "I describe support as curiosity, rest, and one consistent cue. Young players do better without several adults coaching at once.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_4OPT_010_003_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

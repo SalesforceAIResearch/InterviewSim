@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_003",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_003_001",
+      "qa_id": "QA_003_0013",
+      "text": "I look for the first moment when answers begin to diverge for unrelated reasons. That usually marks a step I made too large."
+    },
+    {
+      "fact_id": "FACT_003_002",
+      "qa_id": "QA_003_0014",
+      "text": "It used to be. Now I replace part of the explanation with one concrete comparison and let learners describe the connection."
+    },
+    {
+      "fact_id": "FACT_003_003",
+      "qa_id": "QA_003_0015",
+      "text": "I will ask which transition felt abrupt and what they expected next. Their wording will guide the next change better than a general rating."
+    }
+  ]
+}

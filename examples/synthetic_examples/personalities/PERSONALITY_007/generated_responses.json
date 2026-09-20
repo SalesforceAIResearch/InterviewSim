@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_007",
+  "synthetic_only": true,
+  "generated_responses": [
+    {
+      "response_id": "RESPONSE_007_001",
+      "personality_id": "PERSONALITY_007",
+      "qa_id": "QA_007_0013",
+      "response": "I connect each barrier to a real task and look first for blocked actions. Visible polish should not outrank someone being unable to continue."
+    },
+    {
+      "response_id": "RESPONSE_007_002",
+      "personality_id": "PERSONALITY_007",
+      "qa_id": "QA_007_0014",
+      "response": "Frequency matters, but severity can outweigh it. I document both so the order remains open to challenge."
+    },
+    {
+      "response_id": "RESPONSE_007_003",
+      "personality_id": "PERSONALITY_007",
+      "qa_id": "QA_007_0015",
+      "response": "I would publish a short rationale and retest the affected tasks. A completed change is not the same as a removed barrier."
+    }
+  ]
+}

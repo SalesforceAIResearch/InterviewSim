@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_001",
+  "synthetic_only": true,
+  "generated_responses": [
+    {
+      "response_id": "RESPONSE_001_001",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0013",
+      "response": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge."
+    },
+    {
+      "response_id": "RESPONSE_001_002",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0014",
+      "response": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace."
+    },
+    {
+      "response_id": "RESPONSE_001_003",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0015",
+      "response": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate."
+    }
+  ]
+}

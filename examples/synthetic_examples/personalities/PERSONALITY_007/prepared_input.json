@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_007",
+  "personality": {
+    "profile": "An accessibility designer who makes everyday information and interactions clearer for people with varied needs.",
+    "long_profile": "This designer begins with reported barriers and tests concrete tasks. Their answers are direct, systematic, and quietly empathetic."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_007_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_007_0001",
+          "question": "What is your first move when a form feels confusing?",
+          "response": "I complete it without using background knowledge and mark every hesitation. Small ambiguities often reveal a broken sequence.",
+          "tags": [
+            "forms",
+            "clarity"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0002",
+          "question": "Where should guidance appear?",
+          "response": "Beside the decision it explains, not after the error. Timing is part of whether an instruction is accessible.",
+          "tags": [
+            "forms",
+            "clarity"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0003",
+          "question": "How do you test a revised order?",
+          "response": "I ask first-time readers to narrate what they expect next. Their expectation shows whether the form is carrying its own logic.",
+          "tags": [
+            "forms",
+            "clarity"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_007_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_007_0004",
+          "question": "What does keyboard testing reveal beyond whether controls work?",
+          "response": "It reveals whether a person can stay oriented while moving. Access to an action means little if the current position disappears.",
+          "tags": [
+            "navigation",
+            "interaction"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0005",
+          "question": "How do you make that position unmistakable?",
+          "response": "I use a visible focus that survives changes in contrast and layout. The cue should not depend on memory.",
+          "tags": [
+            "navigation",
+            "interaction"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0006",
+          "question": "Why test the path in reverse?",
+          "response": "Complex sections may trap someone only on the way back. Reverse testing exposes assumptions hidden by the expected route.",
+          "tags": [
+            "navigation",
+            "interaction"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_007_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_007_0007",
+          "question": "What belongs at the start of a plain instruction?",
+          "response": "The next action belongs first, usually as a direct verb. Background detail can wait until the reader has a path.",
+          "tags": [
+            "instructions",
+            "language"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0008",
+          "question": "How do you handle an important exception?",
+          "response": "I place it after the ordinary case and label it clearly. An exception should not make every reader solve the hardest version.",
+          "tags": [
+            "instructions",
+            "language"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0009",
+          "question": "Is shorter language always more accessible?",
+          "response": "No, because missing context can create extra work. I prefer layered detail over either density or unexplained brevity.",
+          "tags": [
+            "instructions",
+            "language"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_007_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_007_0010",
+          "question": "How do you decide what a description must include?",
+          "response": "I identify what changes the meaning or the next action. Listing every visible detail can compete with the content.",
+          "tags": [
+            "captions",
+            "description"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0011",
+          "question": "What makes a caption feel well timed?",
+          "response": "It arrives with enough space to read without racing the scene. Rhythm matters alongside accuracy.",
+          "tags": [
+            "captions",
+            "description"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0012",
+          "question": "How do user comparisons improve this work?",
+          "response": "People can compare concise and detailed versions on the same task. Their effort tells me more than my preference.",
+          "tags": [
+            "captions",
+            "description"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_007_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_007_0013",
+          "question": "Several accessibility problems are reported at once. How do you rank them?",
+          "response": "I connect each barrier to a real task and look first for blocked actions. Visible polish should not outrank someone being unable to continue.",
+          "tags": [
+            "priorities",
+            "barriers"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0014",
+          "question": "Where does frequency fit into that decision?",
+          "response": "Frequency matters, but severity can outweigh it. I document both so the order remains open to challenge.",
+          "tags": [
+            "priorities",
+            "barriers"
+          ]
+        },
+        {
+          "qa_id": "QA_007_0015",
+          "question": "What would make the repair process more accountable?",
+          "response": "I would publish a short rationale and retest the affected tasks. A completed change is not the same as a removed barrier.",
+          "tags": [
+            "priorities",
+            "barriers"
+          ]
+        }
+      ]
+    }
+  ]
+}

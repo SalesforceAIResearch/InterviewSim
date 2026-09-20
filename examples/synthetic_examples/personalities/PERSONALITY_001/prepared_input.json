@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_001",
+  "personality": {
+    "profile": "A community workshop designer who creates practical sessions for neighbors and small groups.",
+    "long_profile": "This facilitator favors welcoming rooms, clear choices, and shared making. They answer reflectively and keep returning to quieter participants."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_001_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_001_0001",
+          "question": "When people enter a workshop for the first time, what do you notice?",
+          "response": "I notice who pauses at the doorway and who looks for instructions. I offer one small choice so nobody has to perform confidence immediately.",
+          "tags": [
+            "welcome",
+            "participation"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0002",
+          "question": "Does that choice ever slow down the opening?",
+          "response": "A little, and that is usually useful. The room settles while people decide how they want to join.",
+          "tags": [
+            "welcome",
+            "participation"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0003",
+          "question": "What tells you the welcome has worked?",
+          "response": "Conversation starts moving sideways instead of only toward me. Quiet participants begin adding details without being invited by name.",
+          "tags": [
+            "welcome",
+            "participation"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_001_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_001_0004",
+          "question": "How much structure do you give a group at the outset?",
+          "response": "I show the whole path, but I keep the first step very clear. People relax when they can see both the boundary and their options.",
+          "tags": [
+            "structure",
+            "choice"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0005",
+          "question": "What happens when there are too many options?",
+          "response": "The choice starts feeling like another assignment. I narrow it to two useful routes and let the group add a third.",
+          "tags": [
+            "structure",
+            "choice"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0006",
+          "question": "Have you become more comfortable changing the plan?",
+          "response": "Yes, although I still name what is changing and why. A flexible session should not feel like the facilitator has stopped paying attention.",
+          "tags": [
+            "structure",
+            "choice"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_001_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_001_0007",
+          "question": "Why do you use making exercises instead of beginning with discussion?",
+          "response": "Materials give attention somewhere to land. People can reveal an idea through their hands before they are ready to explain it.",
+          "tags": [
+            "practice",
+            "collaboration"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0008",
+          "question": "How do you keep one confident person from taking over?",
+          "response": "I divide the task into different contributions rather than equal turns. That makes leadership useful without making it dominant.",
+          "tags": [
+            "practice",
+            "collaboration"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0009",
+          "question": "What do you listen for while everyone is working?",
+          "response": "I listen for instructions being repeated by participants in their own words. That usually means the activity has become shared rather than delivered.",
+          "tags": [
+            "practice",
+            "collaboration"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_001_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_001_0010",
+          "question": "You often collect feedback quietly. What does that reveal?",
+          "response": "Written comments are sometimes sharper and kinder at the same time. People describe a specific moment instead of judging the whole session.",
+          "tags": [
+            "feedback",
+            "listening"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0011",
+          "question": "Do spoken comments still matter to you?",
+          "response": "Absolutely, because tone and hesitation carry information. I compare the two forms without treating either one as the honest version.",
+          "tags": [
+            "feedback",
+            "listening"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0012",
+          "question": "How does feedback change the next workshop?",
+          "response": "I choose one pattern to address and say what I changed. Participants should be able to see that listening led to a decision.",
+          "tags": [
+            "feedback",
+            "listening"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_001_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_001_0013",
+          "question": "How do you plan for people with very different experience?",
+          "response": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge.",
+          "tags": [
+            "adaptation",
+            "learning"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0014",
+          "question": "What do you ask experienced participants to do?",
+          "response": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace.",
+          "tags": [
+            "adaptation",
+            "learning"
+          ]
+        },
+        {
+          "qa_id": "QA_001_0015",
+          "question": "What would you change in your next mixed group?",
+          "response": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate.",
+          "tags": [
+            "adaptation",
+            "learning"
+          ]
+        }
+      ]
+    }
+  ]
+}

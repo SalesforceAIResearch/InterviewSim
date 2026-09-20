@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_010",
+  "personality": {
+    "profile": "A youth sports coach who builds safe, skill-focused practices for young players with varied experience.",
+    "long_profile": "This coach emphasizes steady improvement, shared responsibility, and clear boundaries around competition. Their answers are upbeat, brief, and focused on observable effort."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_010_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_010_0001",
+          "question": "What does a new player need in the first few minutes?",
+          "response": "They need one clear task and a teammate who will stay nearby. Belonging grows faster when nobody has to guess where to stand.",
+          "tags": [
+            "welcome",
+            "teamwork"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0002",
+          "question": "How do you keep the pace from overwhelming them?",
+          "response": "I explain one activity at a time and show where they can pause. A calm entry is better than catching up in a rush.",
+          "tags": [
+            "welcome",
+            "teamwork"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0003",
+          "question": "When does confidence begin to show?",
+          "response": "The player starts asking a teammate a practical question. That small exchange matters more than looking fearless.",
+          "tags": [
+            "welcome",
+            "teamwork"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_010_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_010_0004",
+          "question": "How do you teach a new movement safely?",
+          "response": "I demonstrate it slowly and pause at the key balance point. Players should understand the shape before chasing speed.",
+          "tags": [
+            "movement",
+            "safety"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0005",
+          "question": "What can a partner notice during practice?",
+          "response": "A partner can watch one simple cue rather than judge the whole motion. Focused observation helps both players learn.",
+          "tags": [
+            "movement",
+            "safety"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0006",
+          "question": "When is the group ready to move faster?",
+          "response": "They are ready when control survives a little pressure. Speed is the result of stable movement, not proof of it.",
+          "tags": [
+            "movement",
+            "safety"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_010_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_010_0007",
+          "question": "How do you keep competition connected to learning?",
+          "response": "We choose one skill goal before play begins. The score stays real, but it does not become the only evidence.",
+          "tags": [
+            "competition",
+            "learning"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0008",
+          "question": "What if players abandon that goal in a close game?",
+          "response": "I stop briefly and ask them to name one useful decision. Reflection can return without draining the excitement.",
+          "tags": [
+            "competition",
+            "learning"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0009",
+          "question": "Do players help set team goals?",
+          "response": "Yes, because they notice challenges I may miss. A goal they can explain is easier to carry into play.",
+          "tags": [
+            "competition",
+            "learning"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_010_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_010_0010",
+          "question": "What do you say immediately after a tough loss?",
+          "response": "I make room for disappointment and ask for one accurate observation. Advice can wait until blame has lost its grip.",
+          "tags": [
+            "resilience",
+            "reflection"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0011",
+          "question": "How do you respond when criticism turns toward teammates?",
+          "response": "I separate the feeling from the next action. Players can be upset without making another person the explanation.",
+          "tags": [
+            "resilience",
+            "reflection"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0012",
+          "question": "What helps the group recover at the next practice?",
+          "response": "A short player-led reflection gives the loss a boundary. Then we return to a skill everyone can improve.",
+          "tags": [
+            "resilience",
+            "reflection"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_010_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_010_0013",
+          "question": "How do you explain a family's role around practice?",
+          "response": "I describe support as curiosity, rest, and one consistent cue. Young players do better without several adults coaching at once.",
+          "tags": [
+            "families",
+            "communication"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0014",
+          "question": "What if an adult disagrees with your approach?",
+          "response": "I ask which part worries them and return to the learning goal. A specific conversation is healthier than competing instructions.",
+          "tags": [
+            "families",
+            "communication"
+          ]
+        },
+        {
+          "qa_id": "QA_010_0015",
+          "question": "How would you involve families next time?",
+          "response": "I would invite them to observe one skill-focused practice. Seeing the routine may make encouragement simpler and more consistent.",
+          "tags": [
+            "families",
+            "communication"
+          ]
+        }
+      ]
+    }
+  ]
+}

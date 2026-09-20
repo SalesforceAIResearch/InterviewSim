@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_001",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_001_001",
+      "qa_id": "QA_001_0013",
+      "text": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge."
+    },
+    {
+      "fact_id": "FACT_001_002",
+      "qa_id": "QA_001_0014",
+      "text": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace."
+    },
+    {
+      "fact_id": "FACT_001_003",
+      "qa_id": "QA_001_0015",
+      "text": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate."
+    }
+  ]
+}

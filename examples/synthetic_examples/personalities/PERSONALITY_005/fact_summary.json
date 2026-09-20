@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_005",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_005_001",
+      "qa_id": "QA_005_0013",
+      "text": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make."
+    },
+    {
+      "fact_id": "FACT_005_002",
+      "qa_id": "QA_005_0014",
+      "text": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation."
+    },
+    {
+      "fact_id": "FACT_005_003",
+      "qa_id": "QA_005_0015",
+      "text": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad."
+    }
+  ]
+}

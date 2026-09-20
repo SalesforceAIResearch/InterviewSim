@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_006",
+  "synthetic_only": true,
+  "content_similarity": [
+    {
+      "response_id": "RESPONSE_006_001",
+      "score": 5,
+      "explanation": "The response preserves the full practical meaning of the held-out answer."
+    },
+    {
+      "response_id": "RESPONSE_006_002",
+      "score": 5,
+      "explanation": "The response preserves the full practical meaning of the held-out answer."
+    },
+    {
+      "response_id": "RESPONSE_006_003",
+      "score": 5,
+      "explanation": "The response preserves the full practical meaning of the held-out answer."
+    }
+  ],
+  "factual_consistency": [
+    {
+      "response_id": "RESPONSE_006_001",
+      "label": "Entailment",
+      "explanation": "The response agrees with the fictional facts in the held-out answer."
+    },
+    {
+      "response_id": "RESPONSE_006_002",
+      "label": "Entailment",
+      "explanation": "The response agrees with the fictional facts in the held-out answer."
+    },
+    {
+      "response_id": "RESPONSE_006_003",
+      "label": "Entailment",
+      "explanation": "The response agrees with the fictional facts in the held-out answer."
+    }
+  ],
+  "personality_similarity": {
+    "reference": {
+      "trait_runs": {
+        "openness": [
+          "Low",
+          "Low",
+          "Neutral"
+        ],
+        "conscientiousness": [
+          "Neutral",
+          "Neutral",
+          "High"
+        ],
+        "extraversion": [
+          "High",
+          "High",
+          "Neutral"
+        ],
+        "agreeableness": [
+          "Low",
+          "Low",
+          "Neutral"
+        ],
+        "neuroticism": [
+          "Neutral",
+          "Neutral",
+          "High"
+        ]
+      },
+      "modal_profile": {
+        "openness": "Low",
+        "conscientiousness": "Neutral",
+        "extraversion": "High",
+        "agreeableness": "Low",
+        "neuroticism": "Neutral"
+      }
+    },
+    "generated": {
+      "trait_runs": {
+        "openness": [
+          "Neutral",
+          "Neutral",
+          "High"
+        ],
+        "conscientiousness": [
+          "Neutral",
+          "Neutral",
+          "High"
+        ],
+        "extraversion": [
+          "High",
+          "High",
+          "Neutral"
+        ],
+        "agreeableness": [
+          "Low",
+          "Low",
+          "Neutral"
+        ],
+        "neuroticism": [
+          "Neutral",
+          "Neutral",
+          "High"
+        ]
+      },
+      "modal_profile": {
+        "openness": "Neutral",
+        "conscientiousness": "Neutral",
+        "extraversion": "High",
+        "agreeableness": "Low",
+        "neuroticism": "Neutral"
+      }
+    },
+    "alignment": 0.9
+  },
+  "mcq_evaluation": {
+    "three_option": [
+      {
+        "mcq_id": "MCQ_3OPT_006_001",
+        "selected_option_id": "OPTION_3OPT_006_001_A",
+        "selected_option_kind": "correct",
+        "accuracy": 1,
+        "reward": 1.0
+      },
+      {
+        "mcq_id": "MCQ_3OPT_006_002",
+        "selected_option_id": "OPTION_3OPT_006_002_A",
+        "selected_option_kind": "near_miss",
+        "accuracy": 0,
+        "reward": -0.5
+      },
+      {
+        "mcq_id": "MCQ_3OPT_006_003",
+        "selected_option_id": "OPTION_3OPT_006_003_A",
+        "selected_option_kind": "plausible_misconception",
+        "accuracy": 0,
+        "reward": -0.5
+      }
+    ],
+    "four_option": [
+      {
+        "mcq_id": "MCQ_4OPT_006_001",
+        "selected_option_id": "OPTION_4OPT_006_001_A",
+        "selected_option_kind": "correct",
+        "accuracy": 1,
+        "reward": 1.0
+      },
+      {
+        "mcq_id": "MCQ_4OPT_006_002",
+        "selected_option_id": "OPTION_4OPT_006_002_C",
+        "selected_option_kind": "opposite_negation",
+        "accuracy": 0,
+        "reward": -1.0
+      },
+      {
+        "mcq_id": "MCQ_4OPT_006_003",
+        "selected_option_id": "OPTION_4OPT_006_003_D",
+        "selected_option_kind": "near_miss",
+        "accuracy": 0,
+        "reward": -0.5
+      }
+    ]
+  },
+  "aggregates": {
+    "mean_content_similarity": 5.0,
+    "contradiction_ratio": 0.0,
+    "personality_alignment": 0.9,
+    "mcq_3_option_accuracy": 0.333,
+    "mcq_3_option_mean_reward": 0.0,
+    "mcq_4_option_accuracy": 0.333,
+    "mcq_4_option_mean_reward": -0.167
+  }
+}

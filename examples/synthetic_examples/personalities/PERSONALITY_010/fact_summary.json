@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_010",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_010_001",
+      "qa_id": "QA_010_0013",
+      "text": "I describe support as curiosity, rest, and one consistent cue. Young players do better without several adults coaching at once."
+    },
+    {
+      "fact_id": "FACT_010_002",
+      "qa_id": "QA_010_0014",
+      "text": "I ask which part worries them and return to the learning goal. A specific conversation is healthier than competing instructions."
+    },
+    {
+      "fact_id": "FACT_010_003",
+      "qa_id": "QA_010_0015",
+      "text": "I would invite them to observe one skill-focused practice. Seeing the routine may make encouragement simpler and more consistent."
+    }
+  ]
+}

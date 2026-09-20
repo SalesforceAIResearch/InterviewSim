@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_004",
+  "personality": {
+    "profile": "An archival editor who organizes fragmented records and writes careful context for future readers.",
+    "long_profile": "This editor values uncertainty and separates evidence from interpretation. Their answers are measured, precise, and comfortable with unresolved questions."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_004_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_004_0001",
+          "question": "Where do you begin with a box of scattered notes?",
+          "response": "I identify the clearest relationships before I invent categories. The disorder may still preserve how the notes were once used.",
+          "tags": [
+            "organization",
+            "context"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0002",
+          "question": "What if two arrangements seem equally reasonable?",
+          "response": "I record both possibilities and explain the choice I made. Organization always contains interpretation, even when the labels look neutral.",
+          "tags": [
+            "organization",
+            "context"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0003",
+          "question": "How do you test whether the arrangement helps?",
+          "response": "I give it to a reader who knows none of the material. Their first wrong turn often exposes my hidden assumption.",
+          "tags": [
+            "organization",
+            "context"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_004_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_004_0004",
+          "question": "How do you handle a phrase you can only partly read?",
+          "response": "I transcribe what is visible and mark the gap plainly. A likely completion should not quietly become the record.",
+          "tags": [
+            "uncertainty",
+            "transcription"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0005",
+          "question": "Do you include your best guess anywhere?",
+          "response": "Sometimes, but I label it as a proposed reading. The distinction lets another reader disagree without undoing the transcription.",
+          "tags": [
+            "uncertainty",
+            "transcription"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0006",
+          "question": "Why preserve ambiguity when it frustrates readers?",
+          "response": "Because the uncertainty is information about the material. Removing it gives the page a confidence it never had.",
+          "tags": [
+            "uncertainty",
+            "transcription"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_004_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_004_0007",
+          "question": "What belongs in a short contextual description?",
+          "response": "I state what the material contains and why its arrangement matters. Background enters only when a reader needs it to orient themselves.",
+          "tags": [
+            "description",
+            "readers"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0008",
+          "question": "How do you avoid telling readers what to conclude?",
+          "response": "I separate description from interpretation and use concrete verbs. A clear account can open inquiry without directing it.",
+          "tags": [
+            "description",
+            "readers"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0009",
+          "question": "Who should test that description?",
+          "response": "Readers from different fields are especially useful. Each one notices a term I assumed was ordinary.",
+          "tags": [
+            "description",
+            "readers"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_004_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_004_0010",
+          "question": "Two records disagree about the same event. What comes first?",
+          "response": "I place the accounts beside each other before trying to reconcile them. Disagreement deserves to be represented, not merely solved.",
+          "tags": [
+            "conflict",
+            "evidence"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0011",
+          "question": "Can polished writing make one account seem stronger?",
+          "response": "Very easily. I compare concrete details so style does not stand in for reliability.",
+          "tags": [
+            "conflict",
+            "evidence"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0012",
+          "question": "What if the conflict cannot be resolved?",
+          "response": "Then the note should preserve the competing interpretations. An unresolved limit is more useful than a tidy invention.",
+          "tags": [
+            "conflict",
+            "evidence"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_004_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_004_0013",
+          "question": "How do you prepare complex material for a first-time reader?",
+          "response": "I offer several entry points and explain what each path emphasizes. The guide should orient curiosity without narrowing it.",
+          "tags": [
+            "access",
+            "navigation"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0014",
+          "question": "Is there a risk of providing too much guidance?",
+          "response": "Yes, because a detailed map can make discovery feel prescribed. I keep optional context separate from the first route.",
+          "tags": [
+            "access",
+            "navigation"
+          ]
+        },
+        {
+          "qa_id": "QA_004_0015",
+          "question": "What would you like to learn from reader testing?",
+          "response": "I want to see where browsing turns into close study. That transition will show whether the navigation supports both kinds of attention.",
+          "tags": [
+            "access",
+            "navigation"
+          ]
+        }
+      ]
+    }
+  ]
+}

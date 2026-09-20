@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_003",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_3OPT_003_001",
+      "personality_id": "PERSONALITY_003",
+      "qa_id": "QA_003_0013",
+      "atomic_qa_id": "ATOMIC_QA_003_001",
+      "option_count": 3,
+      "question": "How can you tell where a lesson lost the group?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_003_001_A",
+          "text": "I look for the first moment when answers begin to diverge for unrelated reasons. That usually marks a step I made too large.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_003_001_B",
+          "text": "It used to be. Now I replace part of the explanation with one concrete comparison and let learners describe the connection.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_003_001_C",
+          "text": "I will ask which transition felt abrupt and what they expected next. Their wording will guide the next change better than a general rating.",
+          "kind": "plausible_misconception"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_003_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_003_002",
+      "personality_id": "PERSONALITY_003",
+      "qa_id": "QA_003_0014",
+      "atomic_qa_id": "ATOMIC_QA_003_002",
+      "option_count": 3,
+      "question": "Is your instinct to explain that step in more detail?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_003_002_A",
+          "text": "I look for the first moment when answers begin to diverge for unrelated reasons. That usually marks a step I made too large.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_003_002_B",
+          "text": "I will ask which transition felt abrupt and what they expected next. Their wording will guide the next change better than a general rating.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_003_002_C",
+          "text": "It used to be. Now I replace part of the explanation with one concrete comparison and let learners describe the connection.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_003_002_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_003_003",
+      "personality_id": "PERSONALITY_003",
+      "qa_id": "QA_003_0015",
+      "atomic_qa_id": "ATOMIC_QA_003_003",
+      "option_count": 3,
+      "question": "What will you ask learners after the revision?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_003_003_A",
+          "text": "It used to be. Now I replace part of the explanation with one concrete comparison and let learners describe the connection.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_003_003_B",
+          "text": "I will ask which transition felt abrupt and what they expected next. Their wording will guide the next change better than a general rating.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_003_003_C",
+          "text": "I look for the first moment when answers begin to diverge for unrelated reasons. That usually marks a step I made too large.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_003_003_B",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

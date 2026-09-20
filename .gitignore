@@ -1,0 +1,58 @@
+# Copyright (c) 2026 Salesforce, Inc.
+# SPDX-License-Identifier: CC-BY-NC-4.0
+#
+# Licensed under the Creative Commons Attribution-NonCommercial 4.0
+# International License. See LICENSE.txt in the repository root.
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Coverage and test output
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local datasets and experiment artifacts
+data/
+artifacts/
+outputs/
+results/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~

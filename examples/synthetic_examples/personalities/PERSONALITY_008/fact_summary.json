@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_008",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_008_001",
+      "qa_id": "QA_008_0013",
+      "text": "I compare roots, moisture, and light before changing anything. Several causes can leave the same sad leaves."
+    },
+    {
+      "fact_id": "FACT_008_002",
+      "qa_id": "QA_008_0014",
+      "text": "I change one condition and leave the others alone. A smaller experiment gives failure somewhere useful to go."
+    },
+    {
+      "fact_id": "FACT_008_003",
+      "qa_id": "QA_008_0015",
+      "text": "I would keep one small bed for repeat trials. It could make uncertainty visible without putting the whole harvest at risk."
+    }
+  ]
+}

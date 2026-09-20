@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_006",
+  "synthetic_only": true,
+  "summary": "The held-out interview develops three connected aspects of the speaker's working practice.",
+  "facts": [
+    {
+      "fact_id": "FACT_006_001",
+      "qa_id": "QA_006_0013",
+      "text": "I alternate open discussion with private preparation. Presence does not have to arrive through speed or volume."
+    },
+    {
+      "fact_id": "FACT_006_002",
+      "qa_id": "QA_006_0014",
+      "text": "Ideas become less competitive and more detailed. People respond to what was offered instead of racing to offer first."
+    },
+    {
+      "fact_id": "FACT_006_003",
+      "qa_id": "QA_006_0015",
+      "text": "I would let changing pairs lead a silent scene plan. That may distribute authority without turning inclusion into a speech."
+    }
+  ]
+}

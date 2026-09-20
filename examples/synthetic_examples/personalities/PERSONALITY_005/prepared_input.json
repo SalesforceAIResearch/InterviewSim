@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_005",
+  "personality": {
+    "profile": "A food-systems researcher who studies everyday movement, waste, and decision-making around food.",
+    "long_profile": "This researcher combines observation with respectful conversation and looks for recognizable patterns. Their answers are practical, cautious, and grounded in ordinary routines."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_005_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_005_0001",
+          "question": "What can you learn by following one food item through its journey?",
+          "response": "I can see where a small delay changes quality, cost, or responsibility. The handoffs reveal more than the endpoints.",
+          "tags": [
+            "distribution",
+            "observation"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0002",
+          "question": "Which parts of that journey are easiest to miss?",
+          "response": "Informal exchanges often disappear from written records. I ask workers what happens between the steps everyone thinks are official.",
+          "tags": [
+            "distribution",
+            "observation"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0003",
+          "question": "How do you avoid treating one route as typical?",
+          "response": "I compare it with a smoother route and one with repeated delays. The contrast keeps a vivid example from becoming a general claim.",
+          "tags": [
+            "distribution",
+            "observation"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_005_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_005_0004",
+          "question": "How do you invite market workers to describe their routines?",
+          "response": "I ask about one ordinary shift and let the sequence unfold. Specific actions are easier to correct than broad opinions.",
+          "tags": [
+            "interviews",
+            "work"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0005",
+          "question": "What details do people assume you already understand?",
+          "response": "They often skip the tiny adjustments that keep work moving. A step-by-step retelling brings those invisible decisions back.",
+          "tags": [
+            "interviews",
+            "work"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0006",
+          "question": "Do participants get to review your interpretation?",
+          "response": "Yes, I return a plain summary and ask what feels incomplete. Correction is part of the evidence, not a courtesy after it.",
+          "tags": [
+            "interviews",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_005_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_005_0007",
+          "question": "How do you measure household food waste without creating a burden?",
+          "response": "I use a short observation period and a few realistic categories. A perfect diary is useless if nobody can maintain it.",
+          "tags": [
+            "waste",
+            "measurement"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0008",
+          "question": "Which distinction matters most in those categories?",
+          "response": "I separate avoidable scraps from necessary remains. That distinction connects the measure to choices a household can actually change.",
+          "tags": [
+            "waste",
+            "measurement"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0009",
+          "question": "What do incomplete records tell you?",
+          "response": "They tell me where the method fought with daily life. Missing entries can improve the next design if I treat them as evidence.",
+          "tags": [
+            "waste",
+            "measurement"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_005_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_005_0010",
+          "question": "Why are routine food habits hard to recall accurately?",
+          "response": "Special occasions crowd out ordinary weeks in memory. I ask for repeated choices rather than the most memorable meal.",
+          "tags": [
+            "habits",
+            "comparison"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0011",
+          "question": "How do you check those recollections?",
+          "response": "A brief set of purchase notes gives me a second view. I compare patterns without assuming either record is complete.",
+          "tags": [
+            "habits",
+            "comparison"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0012",
+          "question": "What makes a comparison fair across households?",
+          "response": "The categories must fit different routines without ranking them. Variation is part of the system, not noise to remove.",
+          "tags": [
+            "habits",
+            "comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_005_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_005_0013",
+          "question": "How do you share findings so residents recognize their own experience?",
+          "response": "I begin with a familiar pattern and show several paths through it. A single average can hide the decisions people actually make.",
+          "tags": [
+            "communication",
+            "findings"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0014",
+          "question": "What do residents add that your analysis cannot?",
+          "response": "They identify missing explanations and name constraints I flattened. Their response changes the interpretation, not just the presentation.",
+          "tags": [
+            "communication",
+            "findings"
+          ]
+        },
+        {
+          "qa_id": "QA_005_0015",
+          "question": "What will you try in the next discussion?",
+          "response": "I will ask small groups to annotate one pattern before I explain it. That should reveal where my language is too broad.",
+          "tags": [
+            "communication",
+            "findings"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_006",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_3OPT_006_001",
+      "personality_id": "PERSONALITY_006",
+      "qa_id": "QA_006_0013",
+      "atomic_qa_id": "ATOMIC_QA_006_001",
+      "option_count": 3,
+      "question": "How do you make room for performers who process quietly?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_006_001_A",
+          "text": "I alternate open discussion with private preparation. Presence does not have to arrive through speed or volume.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_006_001_B",
+          "text": "Ideas become less competitive and more detailed. People respond to what was offered instead of racing to offer first.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_006_001_C",
+          "text": "I would let changing pairs lead a silent scene plan. That may distribute authority without turning inclusion into a speech.",
+          "kind": "plausible_misconception"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_006_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_006_002",
+      "personality_id": "PERSONALITY_006",
+      "qa_id": "QA_006_0014",
+      "atomic_qa_id": "ATOMIC_QA_006_002",
+      "option_count": 3,
+      "question": "What changes when the group adopts that rhythm?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_006_002_A",
+          "text": "I alternate open discussion with private preparation. Presence does not have to arrive through speed or volume.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_006_002_B",
+          "text": "I would let changing pairs lead a silent scene plan. That may distribute authority without turning inclusion into a speech.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_006_002_C",
+          "text": "Ideas become less competitive and more detailed. People respond to what was offered instead of racing to offer first.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_006_002_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_006_003",
+      "personality_id": "PERSONALITY_006",
+      "qa_id": "QA_006_0015",
+      "atomic_qa_id": "ATOMIC_QA_006_003",
+      "option_count": 3,
+      "question": "What experiment would you take into the next rehearsal?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_006_003_A",
+          "text": "Ideas become less competitive and more detailed. People respond to what was offered instead of racing to offer first.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_006_003_B",
+          "text": "I would let changing pairs lead a silent scene plan. That may distribute authority without turning inclusion into a speech.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_006_003_C",
+          "text": "I alternate open discussion with private preparation. Presence does not have to arrive through speed or volume.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_006_003_B",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

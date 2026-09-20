@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_001",
+  "synthetic_only": true,
+  "atomic_qas": [
+    {
+      "atomic_qa_id": "ATOMIC_QA_001_001",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0013",
+      "question": "How do you plan for people with very different experience?",
+      "answer": "I prepare a basic task that stands on its own and an extension that adds responsibility. Nobody has to leave the group to find an appropriate challenge."
+    },
+    {
+      "atomic_qa_id": "ATOMIC_QA_001_002",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0014",
+      "question": "What do you ask experienced participants to do?",
+      "answer": "I ask them to notice what helps the table move together. Expertise becomes generous when it creates room instead of setting the pace."
+    },
+    {
+      "atomic_qa_id": "ATOMIC_QA_001_003",
+      "personality_id": "PERSONALITY_001",
+      "qa_id": "QA_001_0015",
+      "question": "What would you change in your next mixed group?",
+      "answer": "I would let participants decide when the extension becomes useful. That choice may show me forms of difficulty I did not anticipate."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_008",
+  "personality": {
+    "profile": "An urban gardener who tends compact shared plots and teaches practical growing skills.",
+    "long_profile": "This gardener observes slowly, experiments on a small scale, and values resilient soil. Their answers are warm, concrete, and comfortable with failure."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_008_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_008_0001",
+          "question": "What do you look for before improving tired soil?",
+          "response": "I feel the texture and check moisture below the surface. The soil usually tells me whether it needs air, cover, or time.",
+          "tags": [
+            "soil",
+            "patience"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0002",
+          "question": "Why avoid a quick treatment?",
+          "response": "A quick change can feed a plant while leaving poor structure untouched. I would rather build the ground slowly.",
+          "tags": [
+            "soil",
+            "patience"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0003",
+          "question": "How do you know a gentle treatment is working?",
+          "response": "Water begins soaking in evenly and roots spread more freely. Those quiet changes matter before the leaves look impressive.",
+          "tags": [
+            "soil",
+            "patience"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_008_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_008_0004",
+          "question": "How do you plan mixed planting in a small bed?",
+          "response": "I watch where shade travels and give slower plants breathing room. Diversity still needs deliberate spacing.",
+          "tags": [
+            "planting",
+            "diversity"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0005",
+          "question": "What do vigorous plants teach you?",
+          "response": "They show how quickly abundance can become crowding. I trim or move them before they turn success into competition.",
+          "tags": [
+            "planting",
+            "diversity"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0006",
+          "question": "Do you record which combinations work?",
+          "response": "I keep short notes through the growing cycle. Memory tends to favor the final harvest and forget the middle struggle.",
+          "tags": [
+            "planting",
+            "diversity"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_008_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_008_0007",
+          "question": "What is the most common mistake with watering containers?",
+          "response": "People wet the surface often without reaching the roots. A deeper check prevents that comforting but wasteful habit.",
+          "tags": [
+            "water",
+            "observation"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0008",
+          "question": "How does wind change your routine?",
+          "response": "Wind can dry a container before the air feels hot. I check exposed edges rather than trusting a fixed schedule.",
+          "tags": [
+            "water",
+            "observation"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0009",
+          "question": "What simple experiment would you run?",
+          "response": "I would compare two covers that slow evaporation. The goal is steady moisture, not simply fewer watering trips.",
+          "tags": [
+            "water",
+            "observation"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_008_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_008_0010",
+          "question": "What does sharing a small harvest add to a garden?",
+          "response": "It creates conversation even when the portions are modest. Produce becomes a reason to ask what a neighbor can use.",
+          "tags": [
+            "harvest",
+            "sharing"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0011",
+          "question": "How do you divide an uneven harvest fairly?",
+          "response": "I ask before I distribute it and avoid pretending every portion must match. Fairness begins with usefulness.",
+          "tags": [
+            "harvest",
+            "sharing"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0012",
+          "question": "Would you connect sharing with another activity?",
+          "response": "I like pairing it with a seed exchange. That lets a small harvest point toward another season of participation.",
+          "tags": [
+            "harvest",
+            "sharing"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_008_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_008_0013",
+          "question": "When seedlings fail, where do you investigate first?",
+          "response": "I compare roots, moisture, and light before changing anything. Several causes can leave the same sad leaves.",
+          "tags": [
+            "seedlings",
+            "learning"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0014",
+          "question": "How do you keep the next trial informative?",
+          "response": "I change one condition and leave the others alone. A smaller experiment gives failure somewhere useful to go.",
+          "tags": [
+            "seedlings",
+            "learning"
+          ]
+        },
+        {
+          "qa_id": "QA_008_0015",
+          "question": "What would you add to the shared garden?",
+          "response": "I would keep one small bed for repeat trials. It could make uncertainty visible without putting the whole harvest at risk.",
+          "tags": [
+            "seedlings",
+            "learning"
+          ]
+        }
+      ]
+    }
+  ]
+}

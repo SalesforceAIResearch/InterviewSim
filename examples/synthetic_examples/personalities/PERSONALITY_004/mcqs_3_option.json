@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_004",
+  "synthetic_only": true,
+  "mcqs": [
+    {
+      "mcq_id": "MCQ_3OPT_004_001",
+      "personality_id": "PERSONALITY_004",
+      "qa_id": "QA_004_0013",
+      "atomic_qa_id": "ATOMIC_QA_004_001",
+      "option_count": 3,
+      "question": "How do you prepare complex material for a first-time reader?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_004_001_A",
+          "text": "I offer several entry points and explain what each path emphasizes. The guide should orient curiosity without narrowing it.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_004_001_B",
+          "text": "Yes, because a detailed map can make discovery feel prescribed. I keep optional context separate from the first route.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_004_001_C",
+          "text": "I want to see where browsing turns into close study. That transition will show whether the navigation supports both kinds of attention.",
+          "kind": "plausible_misconception"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_004_001_A",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_004_002",
+      "personality_id": "PERSONALITY_004",
+      "qa_id": "QA_004_0014",
+      "atomic_qa_id": "ATOMIC_QA_004_002",
+      "option_count": 3,
+      "question": "Is there a risk of providing too much guidance?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_004_002_A",
+          "text": "I offer several entry points and explain what each path emphasizes. The guide should orient curiosity without narrowing it.",
+          "kind": "near_miss"
+        },
+        {
+          "option_id": "OPTION_3OPT_004_002_B",
+          "text": "I want to see where browsing turns into close study. That transition will show whether the navigation supports both kinds of attention.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_004_002_C",
+          "text": "Yes, because a detailed map can make discovery feel prescribed. I keep optional context separate from the first route.",
+          "kind": "correct"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_004_002_C",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    },
+    {
+      "mcq_id": "MCQ_3OPT_004_003",
+      "personality_id": "PERSONALITY_004",
+      "qa_id": "QA_004_0015",
+      "atomic_qa_id": "ATOMIC_QA_004_003",
+      "option_count": 3,
+      "question": "What would you like to learn from reader testing?",
+      "options": [
+        {
+          "option_id": "OPTION_3OPT_004_003_A",
+          "text": "Yes, because a detailed map can make discovery feel prescribed. I keep optional context separate from the first route.",
+          "kind": "plausible_misconception"
+        },
+        {
+          "option_id": "OPTION_3OPT_004_003_B",
+          "text": "I want to see where browsing turns into close study. That transition will show whether the navigation supports both kinds of attention.",
+          "kind": "correct"
+        },
+        {
+          "option_id": "OPTION_3OPT_004_003_C",
+          "text": "I offer several entry points and explain what each path emphasizes. The guide should orient curiosity without narrowing it.",
+          "kind": "near_miss"
+        }
+      ],
+      "correct_option_id": "OPTION_3OPT_004_003_B",
+      "rationale": "The correct option reproduces the answer to this held-out question; the alternatives come from related answers or reverse its intent."
+    }
+  ]
+}

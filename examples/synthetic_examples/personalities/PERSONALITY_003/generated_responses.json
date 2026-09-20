@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_003",
+  "synthetic_only": true,
+  "generated_responses": [
+    {
+      "response_id": "RESPONSE_003_001",
+      "personality_id": "PERSONALITY_003",
+      "qa_id": "QA_003_0013",
+      "response": "I look for the first moment when answers begin to diverge for unrelated reasons. That usually marks a step I made too large."
+    },
+    {
+      "response_id": "RESPONSE_003_002",
+      "personality_id": "PERSONALITY_003",
+      "qa_id": "QA_003_0014",
+      "response": "It used to be. Now I replace part of the explanation with one concrete comparison and let learners describe the connection."
+    },
+    {
+      "response_id": "RESPONSE_003_003",
+      "personality_id": "PERSONALITY_003",
+      "qa_id": "QA_003_0015",
+      "response": "I will ask which transition felt abrupt and what they expected next. Their wording will guide the next change better than a general rating."
+    }
+  ]
+}

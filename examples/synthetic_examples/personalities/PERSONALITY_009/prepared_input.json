@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "personality_id": "PERSONALITY_009",
+  "personality": {
+    "profile": "A public-interest technologist who improves digital services used for essential civic tasks.",
+    "long_profile": "This technologist values simple processes, restrained data collection, and understandable maintenance. Their answers are analytical, plainspoken, and skeptical of unnecessary complexity."
+  },
+  "interviews": [
+    {
+      "interview_id": "INTERVIEW_009_001",
+      "sequence": 1,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_009_0001",
+          "question": "How do you simplify an application built around complicated rules?",
+          "response": "I trace the shortest successful path and separate policy from the questions people must answer. Complex rules do not require confusing screens.",
+          "tags": [
+            "services",
+            "simplicity"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0002",
+          "question": "What repeated burden do you look for?",
+          "response": "I look for information requested twice in slightly different language. Repetition often signals that the service is organized around offices rather than people.",
+          "tags": [
+            "services",
+            "simplicity"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0003",
+          "question": "How do you know a simpler path is still accurate?",
+          "response": "I test it against ordinary and difficult cases. Simplicity should remove needless work, not hide a consequential choice.",
+          "tags": [
+            "services",
+            "simplicity"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_009_002",
+      "sequence": 2,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_009_0004",
+          "question": "What is the safest way to protect sensitive records?",
+          "response": "Collect less in the first place and keep each field for a stated reason. Restraint reduces risk and user burden together.",
+          "tags": [
+            "privacy",
+            "records"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0005",
+          "question": "Why do teams keep information they do not need?",
+          "response": "Availability feels like future value, while deletion feels final. I ask what decision the information actually supports.",
+          "tags": [
+            "privacy",
+            "records"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0006",
+          "question": "Where would you begin a privacy review?",
+          "response": "I would follow one record from collection to deletion. Every unexplained pause in that journey deserves a decision.",
+          "tags": [
+            "privacy",
+            "records"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_009_003",
+      "sequence": 3,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_009_0007",
+          "question": "What do residents reveal that an internal review misses?",
+          "response": "A real task exposes assumptions about language, time, and prior knowledge. Internal reviewers often step around those barriers automatically.",
+          "tags": [
+            "testing",
+            "residents"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0008",
+          "question": "How do you keep observers from helping too soon?",
+          "response": "I ask them to wait until a participant describes the problem. Silence produces better evidence than a well-meant hint.",
+          "tags": [
+            "testing",
+            "residents"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0009",
+          "question": "What makes a short testing session useful?",
+          "response": "One ordinary goal is enough if the observation is careful. Depth comes from tracing the barrier, not adding more tasks.",
+          "tags": [
+            "testing",
+            "residents"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_009_004",
+      "sequence": 4,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_009_0010",
+          "question": "What should an explanation of an automated decision accomplish?",
+          "response": "It should name the factors that changed the outcome and support a next step. Technical detail alone does neither.",
+          "tags": [
+            "automation",
+            "explanation"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0011",
+          "question": "How do you test whether people understand it?",
+          "response": "I ask what they could question or do differently. Their answer shows whether the explanation supports action.",
+          "tags": [
+            "automation",
+            "explanation"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0012",
+          "question": "What warning sign tells you the explanation is too abstract?",
+          "response": "People repeat its wording but cannot connect it to their situation. Familiar words are not the same as useful meaning.",
+          "tags": [
+            "automation",
+            "explanation"
+          ]
+        }
+      ]
+    },
+    {
+      "interview_id": "INTERVIEW_009_005",
+      "sequence": 5,
+      "qa_pairs": [
+        {
+          "qa_id": "QA_009_0013",
+          "question": "Why treat maintenance as a public-interest concern?",
+          "response": "A service is useful only while someone can repair it. Reliability depends on ordinary care, not a dramatic launch.",
+          "tags": [
+            "maintenance",
+            "reliability"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0014",
+          "question": "How do you uncover fragile knowledge?",
+          "response": "I ask someone new to perform a routine task from the notes. Every private explanation marks knowledge the service has not retained.",
+          "tags": [
+            "maintenance",
+            "reliability"
+          ]
+        },
+        {
+          "qa_id": "QA_009_0015",
+          "question": "What improvement would you make next?",
+          "response": "I would place short operational notes beside each recurring task. A real handoff will test whether those notes are enough.",
+          "tags": [
+            "maintenance",
+            "reliability"
+          ]
+        }
+      ]
+    }
+  ]
+}
